@@ -24,3 +24,5 @@ Also yes, I should be using DirectX12, I will start using that soon.
 Also, NGL I used ChatGPT on several sections, and that code seemed sus (mine too), but hey as you can see I've got a spinning cube now:
 
 ![image](https://github.com/mcgrottys/WnUID3D/assets/8999072/82b31051-c3b5-49eb-8d97-260b105bc418)
+
+P.S. I pulled the code and tried debugging, the first time it failed to deploy. It wasn't until local machine appeared as the start object that it started working again. Not sure how I fixed it... good luck!
